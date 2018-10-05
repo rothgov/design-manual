@@ -1,7 +1,7 @@
 ---
-title: Your Site Title
+title: Rotherham MBC Design Manual
 timezone: Europe/London
-description: A Jekyll starter theme with kramdown and sass
+description: Design System
 
 # Build settings
 markdown: kramdown
