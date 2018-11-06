@@ -1,5 +1,25 @@
 /* RMBC Primary colours */
 
+/* Black */
+
+.black { color: #0b0c0c; }
+.bg-black { background-color: #0b0c0c; }
+.b--black { border-color: #0b0c0c; }
+.hover-black:hover,
+.hover-black:focus { color: #0b0c0c; }
+.hover-bg-black:hover,
+.hover-bg-black:focus { background-color: #0b0c0c; }
+
+/* White */
+
+.white { color: #ffffff; }
+.bg-white { background-color: #ffffff; }
+.b--white { border-color: #ffffff; }
+.hover-white:hover,
+.hover-white:focus { color: #ffffff; }
+.hover-bg-white:hover,
+.hover-bg-white:focus { background-color: #ffffff; }
+
 /* Greys */
 
 .grey-5 { color: #4f758b; }
