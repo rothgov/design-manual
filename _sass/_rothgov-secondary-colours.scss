@@ -1,51 +1,171 @@
-/* Rotherham Council Design System - Secondary colours */
+/* Rotherham Highlight colours */
 
-/* Purple */
+/* Use one of these colours alongside base grey and blue on key areas of interaction */
 
-.purple-5 { color: #87189D; }
-.bg-purple-5 { background-color: #87189D; }
-.b--purple-5 { border-color: #87189D; }
-.hover-purple-5:hover,
-.hover-purple-5:focus { color: #87189D; }
-.hover-bg-purple-5:hover,
-.hover-bg-purple-5:focus { background-color: #87189D; }
+/* Rotherham Purple */
 
-/* Orange */
+.purple { color: #87189D; }
+.bg-purple { background-color: #87189D; }
+.b--purple { border-color: #87189D; }
+.hover-purple:hover,
+.hover-purple:focus { color: #87189D; }
+.hover-bg-purple:hover,
+.hover-bg-purple:focus { background-color: #87189D; }
 
-.orange-5 { color: #ED8B00; }
-.bg-orange-5 { background-color: #ED8B00; }
-.b--orange-5 { border-color: #ED8B00; }
-.hover-orange-5:hover,
-.hover-orange-5:focus { color: #ED8B00; }
-.hover-bg-orange-5:hover,
-.hover-bg-orange-5:focus { background-color: #ED8B00; }
+.purple-l { color: #BA70C8; }
+.bg-purple-l { background-color: #BA70C8; }
+.b--purple-l { border-color: #BA70C8; }
+.hover-purple-l:hover,
+.hover-purple-l:focus { color: #BA70C8; }
+.hover-bg-purple-l:hover,
+.hover-bg-purple-l:focus { background-color: #BA70C8; }
 
-/* Green */
+.purple-xl { color: #E9CEEE; }
+.bg-purple-xl { background-color: #E9CEEE; }
+.b--purple-xl { border-color: #E9CEEE; }
+.hover-purple-xl:hover,
+.hover-purple-xl:focus { color: #E9CEEE; }
+.hover-bg-purple-xl:hover,
+.hover-bg-purple-xl:focus { background-color: #E9CEEE; }
 
-.green-5 { color: #78BE20; }
-.bg-green-5 { background-color: #78BE20; }
-.b--green-5 { border-color: #78BE20; }
-.hover-green-5:hover,
-.hover-green-5:focus { color: #78BE20; }
-.hover-bg-green-5:hover,
-.hover-bg-green-5:focus { background-color: #78BE20; }
+.purple-d { color: #620C73; }
+.bg-purple-d { background-color: #620C73; }
+.b--purple-d { border-color: #620C73; }
+.hover-purple-d:hover,
+.hover-purple-d:focus { color: #620C73; }
+.hover-bg-purple-d:hover,
+.hover-bg-purple-d:focus { background-color: #620C73; }
 
-/* Red */
+.purple-xd { color: #3A0444; }
+.bg-purple-xd { background-color: #3A0444; }
+.b--purple-xd { border-color: #3A0444; }
+.hover-purple-xd:hover,
+.hover-purple-xd:focus { color: #3A0444; }
+.hover-bg-purple-xd:hover,
+.hover-bg-purple-xd:focus { background-color: #3A0444; }
 
-.red-5 { color: #EF3340; }
-.bg-red-5 { background-color: #EF3340; }
-.b--red-5 { border-color: #EF3340; }
-.hover-red-5:hover,
-.hover-red-5:focus { color: #EF3340; }
-.hover-bg-red-5:hover,
-.hover-bg-red-5:focus { background-color: #EF3340; }
+/* Rotherham Green */
 
-/* Brown */
+.green { color: #78BE20; }
+.bg-green { background-color: #78BE20; }
+.b--green { border-color: #78BE20; }
+.hover-green:hover,
+.hover-green:focus { color: #78BE20; }
+.hover-bg-green:hover,
+.hover-bg-green:focus { background-color: #78BE20; }
 
-.brown-5 { color: #89532F; }
-.bg-brown-5 { background-color: #89532F; }
-.b--brown-5 { border-color: #89532F; }
-.hover-brown-5:hover,
-.hover-brown-5:focus { color: #89532F; }
-.hover-bg-brown-5:hover,
-.hover-bg-brown-5:focus { background-color: #89532F; }
+.green-l { color: #AFDD75; }
+.bg-green-l { background-color: #AFDD75; }
+.b--green-l { border-color: #AFDD75; }
+.hover-green-l:hover,
+.hover-green-l:focus { color: #AFDD75; }
+.hover-bg-green-l:hover,
+.hover-bg-green-l:focus { background-color: #AFDD75; }
+
+.green-xl { color: #E4F5CF; }
+.bg-green-xl { background-color: #E4F5CF; }
+.b--green-xl { border-color: #E4F5CF; }
+.hover-green-xl:hover,
+.hover-green-xl:focus { color: #E4F5CF; }
+.hover-bg-green-xl:hover,
+.hover-bg-green-xl:focus { background-color: #E4F5CF; }
+
+.green-d { color: #558B11; }
+.bg-green-d { background-color: #558B11; }
+.b--green-d { border-color: #558B11; }
+.hover-green-d:hover,
+.hover-green-d:focus { color: #558B11; }
+.hover-bg-green-d:hover,
+.hover-bg-green-d:focus { background-color: #558B11; }
+
+.green-xd { color: #315207; }
+.bg-green-xd { background-color: #315207; }
+.b--green-xd { border-color: #315207; }
+.hover-green-xd:hover,
+.hover-green-xd:focus { color: #315207; }
+.hover-bg-green-xd:hover,
+.hover-bg-green-xd:focus { background-color: #315207; }
+
+/* Rotherham Red */
+
+.red { color: #EF3340; }
+.bg-red { background-color: #EF3340; }
+.b--red { border-color: #EF3340; }
+.hover-red:hover,
+.hover-red:focus { color: #EF3340; }
+.hover-bg-red:hover,
+.hover-bg-red:focus { background-color: #EF3340; }
+
+.red-l { color: #FB7F88; }
+.bg-red-l { background-color: #FB7F88; }
+.b--red-l { border-color: #FB7F88; }
+.hover-red-l:hover,
+.hover-red-l:focus { color: #FB7F88; }
+.hover-bg-red-l:hover,
+.hover-bg-red-l:focus { background-color: #FB7F88; }
+
+.red-xl { color: #FFD2D6; }
+.bg-red-xl { background-color: #FFD2D6; }
+.b--red-xl { border-color: #FFD2D6; }
+.hover-red-xl:hover,
+.hover-red-xl:focus { color: #FFD2D6; }
+.hover-bg-red-xl:hover,
+.hover-bg-red-xl:focus { background-color: #FFD2D6; }
+
+.red-d { color: #AE1D27; }
+.bg-red-d { background-color: #AE1D27; }
+.b--red-d { border-color: #AE1D27; }
+.hover-red-d:hover,
+.hover-red-d:focus { color: #AE1D27; }
+.hover-bg-red-d:hover,
+.hover-bg-red-d:focus { background-color: #AE1D27; }
+
+.red-xd { color: #660D13; }
+.bg-red-xd { background-color: #660D13; }
+.b--red-xd { border-color: #660D13; }
+.hover-red-xd:hover,
+.hover-red-xd:focus { color: #660D13; }
+.hover-bg-red-xd:hover,
+.hover-bg-red-xd:focus { background-color: #660D13; }
+
+/* Rotherham Cyan */
+
+.cyan { color: #00A3E0; }
+.bg-cyan { background-color: #00A3E0; }
+.b--cyan { border-color: #00A3E0; }
+.hover-cyan:hover,
+.hover-cyan:focus { color: #00A3E0; }
+.hover-bg-cyan:hover,
+.hover-bg-cyan:focus { background-color: #00A3E0; }
+
+.cyan-l { color: #66CBF3; }
+.bg-cyan-l { background-color: #66CBF3; }
+.b--cyan-l { border-color: #66CBF3; }
+.hover-cyan-l:hover,
+.hover-cyan-l:focus { color: #66CBF3; }
+.hover-bg-cyan-l:hover,
+.hover-bg-cyan-l:focus { background-color: #66CBF3; }
+
+.cyan-xl { color: #CCEFFD; }
+.bg-cyan-xl { background-color: #CCEFFD; }
+.b--cyan-xl { border-color: #CCEFFD; }
+.hover-cyan-xl:hover,
+.hover-cyan-xl:focus { color: #CCEFFD; }
+.hover-bg-cyan-xl:hover,
+.hover-bg-cyan-xl:focus { background-color: #CCEFFD; }
+
+.cyan-d { color: #0076A5; }
+.bg-cyan-d { background-color: #0076A5; }
+.b--cyan-d { border-color: #0076A5; }
+.hover-cyan-d:hover,
+.hover-cyan-d:focus { color: #0076A5; }
+.hover-bg-cyan-d:hover,
+.hover-bg-cyan-d:focus { background-color: #0076A5; }
+
+.cyan-xd { color: #004563; }
+.bg-cyan-xd { background-color: #004563; }
+.b--cyan-xd { border-color: #004563; }
+.hover-cyan-xd:hover,
+.hover-cyan-xd:focus { color: #004563; }
+.hover-bg-cyan-xd:hover,
+.hover-bg-cyan-xd:focus { background-color: #004563; }
