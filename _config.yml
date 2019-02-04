@@ -4,6 +4,7 @@ timezone: Europe/London
 description: Design System
 
 # URL settings
+url: "https://rothgov.github.io"
 baseurl: "/design"
 
 # Build settings
