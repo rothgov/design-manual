@@ -3,8 +3,9 @@ title: Rotherham MBC Design Manual
 timezone: Europe/London
 description: Design System
 
-url: https://rothgov.github.io/design
-baseurl: /design
+# URL settings
+url: "https://rothgov.github.io/design"
+baseurl: "/design"
 
 # Build settings
 markdown: kramdown
