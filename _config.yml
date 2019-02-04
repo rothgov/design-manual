@@ -2,6 +2,7 @@
 title: Rotherham MBC Design Manual
 timezone: Europe/London
 description: Design System
+baseurl: /design
 
 # Build settings
 markdown: kramdown
