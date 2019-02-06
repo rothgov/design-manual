@@ -1,7 +1,9 @@
 # Rotherham Council Design
 Uses Rotherham Council Design System
 
-Based on [Tachyons CSS](http://tachyons.io/) all styles written in scss and compiled into single, minified css file.
+Based on [Tachyons CSS](http://tachyons.io/)
+
+All styles written in scss and compiled into single, minified css file.
 
 ## How to use
 Import css ito your page template:
