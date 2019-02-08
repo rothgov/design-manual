@@ -6,13 +6,11 @@ Identity and design guidelines for Rotherham Council
 ---
 
 ### How to use
-Preferred:
 Import the css into the `<head>` of your page template:
 ```
 <link rel="stylesheet" href="https://rothgov.github.io/design/css/style.css"/>
 ```
-Alternative:
-Import the css into your main stylesheet:
+Or import the css into your main stylesheet:
 ```
 @import "https://rothgov.github.io/design/css/style.css" screen;
 ```
