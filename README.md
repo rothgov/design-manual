@@ -1,11 +1,11 @@
-# Rotherham Council Design
-Rotherham Council Design System
+# Rotherham Council Design System
+Identity and design guidelines for Rotherham Council
 
 [View the website](https://rothgov.github.io/design/)
 
 ---
 
-## How to use
+### How to use
 Import css ito your page template:
 <link rel="stylesheet" href="https://rothgov.github.io/design/css/style.css"/>
     
@@ -14,7 +14,7 @@ Import css into your main stylesheet:
 
 ---
 
-## More information
+### More information
 
 All measurements are based on 8px grid
 
