@@ -1,0 +1,28 @@
+/* Rotherham Council - Status Colours */
+
+/* Success */
+.success { color: #A4D0B1; }
+.bg-success { background-color: #A4D0B1; }
+.b--success { border-color: #A4D0B1; }
+.hover-success:hover,
+.hover-success:focus { color: #A4D0B1; }
+.hover-bg-success:hover,
+.hover-bg-success:focus { background-color: #A4D0B1; }
+
+/* Warning */
+.warning { color: #F3A536; }
+.bg-warning { background-color: #F3A536; }
+.b--warning { border-color: #F3A536; }
+.hover-warning:hover,
+.hover-warning:focus { color: #F3A536; }
+.hover-bg-warning:hover,
+.hover-bg-warning:focus { background-color: #F3A536; }
+
+/* Danger */
+.danger { color: #F1A3AA; }
+.bg-danger { background-color: #F1A3AA; }
+.b--danger { border-color: #F1A3AA; }
+.hover-danger:hover,
+.hover-danger:focus { color: #F1A3AA; }
+.hover-bg-danger:hover,
+.hover-bg-danger:focus { background-color: #F1A3AA; }
