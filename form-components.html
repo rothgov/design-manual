@@ -1,0 +1,66 @@
+---
+title: Form components
+layout: default
+---
+
+<section class="pv4">
+  <div class="ph3 ph4-l container center">
+    <h1 class="f2 lh-title fw7 measure josefin ttu">Form components</h1>
+    <h2 class="dib pt2 pb1 mt4 bt bb bw2 b--grey-xl f5 josefin ttu tracked-mega">Form heading</h2>
+    <h3 class="lh-title josefin ttu f2 mb2">Form heading</h3>
+    <p class="measure-wide mt1">Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle.</p>
+    <h2 class="dib pt2 pb1 mt4 bt bb bw2 b--grey-xl f5 josefin ttu tracked-mega">Text input</h2>
+    <div class="mt2 mw7">
+      <label for="text_input">Text input <span class="blue-l">(required)</span></label> <input class="mt1 pa2 ba bw1 b--blue muli w-100" name="text_input" placeholder="Input some text into this box" type="text">
+      <p class="mt2 f6">Help text</p>
+    </div>
+    <h2 class="dib pt2 pb1 mt4 bt bb bw2 b--grey-xl f5 josefin ttu tracked-mega">Text area</h2>
+    <div class="mt2 mw7">
+      <label for="text_area">Text area <span class="blue-l">(required)</span></label> 
+      <textarea class="mt1 pa2 ba bw1 b--blue muli w-100" name="text_area" placeholder="Input some text into this big box" rows="4"></textarea>
+      <p class="mt0 f6">Help text</p>
+    </div>
+    <h2 class="dib pt2 pb1 mt4 bt bb bw2 b--grey-xl f5 josefin ttu tracked-mega">Select Dropdown</h2>
+    <div class="mt2 mw7">
+      <label for="dropdown">Dropdown <span class="blue-l">(required)</span></label> <select class="mt1 pa2 ba bw1 b--blue muli w-100 blue" name="dropdown">
+        <option value="select">
+          Select an option
+        </option>
+        <option value="good_times">
+          Good times
+        </option>
+        <option value="bad_times">
+          Bad times
+        </option>
+        <option value="boogie">
+          Boogie
+        </option>
+      </select>
+      <p class="mt2 f6">Help text</p>
+    </div>
+    <h2 class="dib pt2 pb1 mt4 bt bb bw2 b--grey-xl f5 josefin ttu tracked-mega">Radio buttons</h2>
+    <div class="mt2 mw7">
+      <label for="radio">Radio buttons <span class="blue-l">(required)</span></label>
+      <form>
+        <input checked name="gender" type="radio" value="male"> Male<br>
+        <input name="gender" type="radio" value="female"> Female<br>
+        <input name="gender" type="radio" value="other"> Other
+      </form>
+      <p class="mt2 f6">Help text</p>
+    </div>
+    <h2 class="dib pt2 pb1 mt4 bt bb bw2 b--grey-xl f5 josefin ttu tracked-mega">Checkboxes</h2>
+    <div class="mt2 mw7">
+      <label for="checkbox">Checkbox <span class="blue-l">(required)</span></label>
+      <form>
+        <input name="vehicle1" type="checkbox" value="Bike"> I walk<br>
+        <input name="vehicle1" type="checkbox" value="Bike"> I have a bike<br>
+        <input name="vehicle2" type="checkbox" value="Car"> I have a car
+      </form>
+      <p class="mt2 f6">Help text</p>
+    </div>
+    <div class="flex flex-row justify-between mw7">
+      <p class="mr2 b dib pv3 ph4 ba bw1 b--blue">Previous</p>
+      <p class="mr2 b dib pv3 ph4 ba bw1 b--blue">Save and Continue</p>
+    </div>
+  </div>
+</section>
