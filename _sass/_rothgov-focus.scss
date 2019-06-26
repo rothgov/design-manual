@@ -2,7 +2,7 @@ a:hover {
     border-bottom: 0;
   }
 
-a:active, a:focus, input:active, input:focus {
+a:active, a:focus, input:active, input:focus, select:active, select:focus, textarea:active, textarea:focus {
     transition: none;
     outline-width: 3px;
     outline-style: solid;
